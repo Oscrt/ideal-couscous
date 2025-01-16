@@ -1,16 +1,16 @@
 // i don't know java script
 // Insert the date until the countdown (month/day/year)
-let endDate = new Date("01/14/2025");
+let endDate = new Date("12/31/2999");
 
 //Enter the day that you want to remove from the countdown
 const dayInsert = ''
 //If you don't want to remove a day leave it blank
 
 //Change the name of the event
-const nameEvent = 'Phys-100'
+const nameEvent = 'end of the millenium'
 
 //Change the next line to your own language like "Days until"
-const remainingDaysText = 'jours avant'
+const remainingDaysText = 'days until'
 
 //Change the background color (change black in other color)
 const colorBack = Color.black()
