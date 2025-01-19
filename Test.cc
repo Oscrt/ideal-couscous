@@ -1,5 +1,5 @@
-#include <iostream>
 
+#include <iostream>
 
 using namespace std;
 
@@ -9,6 +9,6 @@ return x;
 }
 
 int main() {
-cout << "Hello world" << endl;
+cout << f(5) << endl;
 return 0;
 }
