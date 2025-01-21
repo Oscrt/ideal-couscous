@@ -10,5 +10,6 @@ return x;
 
 int main() {
 cout << f(5) << endl;
+cout << "Bonjour tout le monde" << endl;
 return 0;
 }
